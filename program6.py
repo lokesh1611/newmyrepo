@@ -1,0 +1,2 @@
+a=["APPLE","BANANA","PAPAYA","WATERMELON"]
+print(a)
